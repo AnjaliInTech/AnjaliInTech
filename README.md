@@ -1,4 +1,3 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></p>
 <h1 align="center">Hi 👋, I'm Anjali Danushika</h1>
 <h3 align="center">Eager IT Student | Navigating the Endless Horizons of Technology</h3>
 
