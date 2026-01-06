@@ -10,9 +10,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-
-- 🧑‍🎓 I’m an Undergraduate at **ICBT**
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **anjalidanushika21@gmail.come**
